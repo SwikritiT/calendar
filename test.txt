@@ -1,2 +1,2 @@
 this is a test file to check if the script works. Testing. still testing.
-still testing
+still testing. testing
